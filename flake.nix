@@ -22,7 +22,7 @@
   in
   {
     devShells = forAllSystems (pkgs: {
-      default = import ./devshell.nix { inherit pkgs; };
+      default = import ./shell.nix { inherit pkgs; };
     });
   };
 }

@@ -1,0 +1,13 @@
+{
+    "mesonbuild.buildFolder": "build",
+    "[cpp]": {
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "llvm-vs-code-extensions.vscode-clangd"
+    },
+    "mesonbuild.downloadLanguageServer": false,
+    "mesonbuild.languageServer": null,
+    "workbench.colorTheme": "Catppuccin Mocha",
+    "catppuccin.accentColor": "sapphire",
+    "workbench.iconTheme": "catppuccin-mocha",
+    "workbench.sideBar.location": "right",
+}
